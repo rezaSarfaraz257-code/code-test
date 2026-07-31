@@ -10,3 +10,8 @@ body {
   height: auto;
   background-color: cyan;
 }
+
+.me {
+  padding: 30px;
+  color: blue;
+}
