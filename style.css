@@ -4,3 +4,9 @@ body {
   color: cyan;
   text-align: center;
 }
+
+.container {
+  width: 80%;
+  height: auto;
+  background-color: cyan;
+}
